@@ -26,7 +26,7 @@ It helps you clean up packages that were installed as dependencies but are no lo
 1. Clone this repo:
 
     ```bash
-    git clone https://github.com/your-username/brew-cleaner.git
+    git clone https://github.com/well2/scripts.git
     cd brew-cleaner
     ```
 

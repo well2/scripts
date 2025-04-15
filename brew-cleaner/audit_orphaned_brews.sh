@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Brew Cleaner - find and optionally remove orphaned Homebrew formulae
-# Author: (your name or GitHub handle)
+# Author: (well2)
 # License: MIT
 
 echo "📦 Getting all currently installed formulae..."
